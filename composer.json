@@ -1,0 +1,17 @@
+{
+    "name": "contantino/guzzleservice",
+    "description": "This package provide Guzzle PHP as a service with facades",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eughenio Constantino",
+            "email": "eughenio@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {
+        "Guzzle\\": "src/guzzleservice/"
+      }
+    }
+}
