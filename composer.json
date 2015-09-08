@@ -1,5 +1,5 @@
 {
-    "name": "contantino/guzzleservice",
+    "name": "constantino/guzzleservice",
     "description": "This package provide Guzzle PHP as a service with facades",
     "license": "MIT",
     "authors": [
